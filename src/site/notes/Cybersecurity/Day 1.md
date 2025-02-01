@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybersecurity/day-1/","created":"2025-02-01T22:36:51.469+05:30","updated":"2025-02-01T22:59:03.222+05:30"}
+{"dg-publish":true,"permalink":"/cybersecurity/day-1/","created":"2025-02-01T22:36:51.469+05:30","updated":"2025-02-01T23:03:44.870+05:30"}
 ---
 
 Nalcon
