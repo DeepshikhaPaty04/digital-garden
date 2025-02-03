@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybersecurity/day-1/","tags":["nalcon","cocon"],"created":"2025-02-01T22:36:51.469+05:30","updated":"2025-02-03T12:45:29.450+05:30"}
+{"dg-publish":true,"permalink":"/cybersecurity/day-1/","tags":["nalcon","cocon"],"created":"2025-02-01T22:36:51.469+05:30","updated":"2025-02-03T12:53:37.427+05:30"}
 ---
 
 ## **Cyber Security Conferences in India**
@@ -29,13 +29,9 @@ NFC is a short-range wireless technology that allows devices to communicate over
 A communication system consists of:
 
 1. **Sender** - The entity that transmits the message.
-  
 2. **Receiver** - The entity that receives the message.
-   
 3. **Transmission Medium** - The channel through which the message travels (e.g., wired or wireless).
-   
 4. **Message** - The information being communicated.
-   
 5. **Protocols** - The set of rules that govern data exchange between sender and receiver.
    
 
@@ -50,18 +46,14 @@ A communication system consists of:
     - **Types of Interfaces:**
         
         - **Graphical User Interface (GUI)** - User-friendly interface with icons and windows.
-         
         - **Command Line Interface (CLI)** - Text-based interface for executing commands.
         
 
 ### **Types of Operating Systems**
 
 1. **Single-user OS** - Designed for one user at a time (e.g., Windows, macOS).
- 
 2. **Multi-user OS** - Allows multiple users to access the system simultaneously (e.g., Linux, UNIX).
-   
 3. **Real-time OS** - Used in time-sensitive applications (e.g., medical systems, robotics).
-   
 4. **Embedded OS** - Designed for embedded systems like IoT devices.
    
 
@@ -74,9 +66,7 @@ A communication system consists of:
 - **Common server types:**
     
     - **DHCP (Dynamic Host Configuration Protocol)** - Assigns dynamic IP addresses to devices.
-    
     - **WWW (Web Server)** - Hosts websites and serves web content.
-    
     - **DNS (Domain Name System)** - Translates domain names into IP addresses.
     
 
@@ -87,22 +77,16 @@ A communication system consists of:
 ### **Network Types**
 
 1. **LAN (Local Area Network)** - A network within a small area like a home or office.
-  
 2. **MAN (Metropolitan Area Network)** - Covers a larger area, such as a city.
-   
 3. **WAN (Wide Area Network)** - Covers a broad geographical area, like the internet.
    
 
 ### **Network Topologies**
 
 1. **Bus** - A single central cable connects all nodes.
-  
 2. **Star** - All nodes are connected to a central hub.
-   
 3. **Ring** - Each node is connected to two others in a circular format.
-   
 4. **Mesh** - Every node connects to every other node.
-   
 5. **Hybrid** - A combination of two or more topologies.
    
 
@@ -176,13 +160,10 @@ The internet operates using a system of interconnected networks. It relies on:
 
 ### **IP Address Types**
 
-1. **Public IP** - Provided by ISPs, unique on the internet.
-  
-2. **Private IP** - Used within a private network.
-   
-3. **Static IP** - Fixed and does not change.
-   
-4. **Dynamic IP** - Changes periodically, assigned by DHCP.
+3. **Public IP** - Provided by ISPs, unique on the internet.
+4. **Private IP** - Used within a private network.
+5. **Static IP** - Fixed and does not change.
+6. **Dynamic IP** - Changes periodically, assigned by DHCP.
   
 
 ---
