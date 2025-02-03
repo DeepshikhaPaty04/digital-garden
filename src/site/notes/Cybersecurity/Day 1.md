@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybersecurity/day-1/","tags":["nalcon","cocon"],"created":"2025-02-01T22:36:51.469+05:30","updated":"2025-02-03T12:53:37.427+05:30"}
+{"dg-publish":true,"permalink":"/cybersecurity/day-1/","tags":["nalcon","cocon"],"created":"2025-02-01T22:36:51.469+05:30","updated":"2025-02-03T12:55:06.311+05:30"}
 ---
 
 ## **Cyber Security Conferences in India**
@@ -160,10 +160,10 @@ The internet operates using a system of interconnected networks. It relies on:
 
 ### **IP Address Types**
 
-3. **Public IP** - Provided by ISPs, unique on the internet.
-4. **Private IP** - Used within a private network.
-5. **Static IP** - Fixed and does not change.
-6. **Dynamic IP** - Changes periodically, assigned by DHCP.
+1. **Public IP** - Provided by ISPs, unique on the internet.
+2. **Private IP** - Used within a private network.
+3. **Static IP** - Fixed and does not change.
+4. **Dynamic IP** - Changes periodically, assigned by DHCP.
   
 
 ---
