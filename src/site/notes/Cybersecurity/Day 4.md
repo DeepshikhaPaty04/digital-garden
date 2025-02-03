@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cybersecurity/day-4/","created":"2025-02-03T13:19:30.029+05:30","updated":"2025-02-03T13:34:53.253+05:30"}
+{"dg-publish":true,"permalink":"/cybersecurity/day-4/","created":"2025-02-03T13:19:30.029+05:30","updated":"2025-02-03T13:39:04.836+05:30"}
 ---
+
 
 ## **CIA Triad - Confidentiality, Integrity, Availability**
 
@@ -31,6 +32,8 @@
 ## **Data Selling on the Dark Web**
 
 - Stolen data, including personal and financial details, is often sold on dark web marketplaces.
+
+---
 
 ## **Information Security vs Cybersecurity**
 
