@@ -4,6 +4,8 @@
 
 [Access & try solving the room](https://tryhackme.com/room/idor)
 
+# IDOR
+
 - IDOR stands for `Insecure Direct Object Reference` and is a type of **access control vulnerability**
 - **IDOR (Insecure Direct Object Reference)** happens when a website or app **lets users access something directly (like someone’s info or file)** just by changing a number or ID in the URL — **without checking if the user is allowed to see it**.
 - IDOR is listed under the **Broken Access Control** category in the OWASP Top 10, one of the most critical security issues in web applications.
