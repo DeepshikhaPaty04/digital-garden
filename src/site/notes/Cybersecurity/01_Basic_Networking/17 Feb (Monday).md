@@ -194,11 +194,11 @@ This command instructs **TheHarvester** to gather publicly available information
 - `-b yahoo` → The source (Yahoo search engine)
 
 This means **TheHarvester** will search Yahoo for:  
-✅ **Emails** → Extracted email addresses associated with `flipkart.com`  
-✅ **Subdomains** → Identifying related subdomains  
-✅ **Hosts** → IP addresses of found subdomains  
-✅ **Employee names (if available)**  
-✅ **Possible open ports and services**
+- **Emails** → Extracted email addresses associated with `flipkart.com`  
+- **Subdomains** → Identifying related subdomains  
+- **Hosts** → IP addresses of found subdomains  
+- **Employee names (if available)**  
+- **Possible open ports and services**
 
 [Reference for using theHarvester](https://www.geeksforgeeks.org/python-theharvester-how-to-use-it/)
 [Github repo](https://github.com/laramies/theHarvester)
