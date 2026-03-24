@@ -4,7 +4,7 @@
 
 # My Notes
 
-🛡️ **Welcome to My Knowledge Hub!** 🔍 🔐
+🛡️ **Welcome to Deepshikha Paty's Knowledge Hub!** 🔍 🔐
 
 ---
 
@@ -18,4 +18,3 @@ This space is dedicated to my learning journey, where I document key concepts, b
 ---
 
 🔥 **Motto: "Learn, Adapt, Excel!"** 🔥
-
